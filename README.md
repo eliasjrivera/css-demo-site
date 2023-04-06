@@ -38,6 +38,7 @@ Authors and Acknowledgment
 
 License
 
-Project Status
+Project Status 
+<br>
     Project is finished. 
     https://github.com/eliasjrivera/css-demo-site
