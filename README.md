@@ -24,6 +24,7 @@ Visuals
 Installation
 
 Usage
+    Refactored codebase location is called index.html file within the Develop folder which is inside 02-Challenge folder. 
 
 Support
     Elias Rivera
@@ -39,3 +40,4 @@ License
 
 Project Status
     Project is finished. 
+    https://github.com/eliasjrivera/css-demo-site
